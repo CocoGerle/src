@@ -1,0 +1,11 @@
+.card-container{
+    background-color: burlywood;
+    
+
+}
+.card-container:hover{
+    transition: 0.1;
+}
+.card-content{
+    color: red;
+}
